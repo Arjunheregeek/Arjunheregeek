@@ -1,11 +1,10 @@
-<p align="center">Hi there, I'm Arjun Gupta 👋</p>
-<p align="center">
+<div align="center">
+<h1>Hi there, I'm Arjun Gupta 👋</h1>
+<h3>An AI & Machine Learning Engineer specializing in Conversational AI, Voice Agents, and RAG.</h3>
 <a href="https://github.com/Arjunheregeek">
 <img src="https://komarev.com/ghpvc/?username=Arjunheregeek&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </a>
-</p>
-
-<h3 align="center">An AI & Machine Learning Engineer specializing in Conversational AI, Voice Agents, and RAG.</h3>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arjun-gupta-aps/" target="_blank">
@@ -53,10 +52,10 @@ Full-Stack AI Development: Proficient in connecting powerful AI backends with in
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-✨ My Featured Projects
+✨ Featured Projects
 <details>
 <summary>
-<h3>💬 LiveKit RAG Voice Agent (AimersVoice)</h3>
+<h2>💬 LiveKit RAG Voice Agent (AimersVoice)</h2>
 </summary>
 <br>
 A real-time, conversational AI voice assistant built with a sophisticated RAG pipeline. It uses LiveKit for real-time communication, LlamaIndex for intelligent document retrieval, and Zilliz Cloud for scalable vector storage. This agent can hold context-aware conversations based on a custom knowledge base.
@@ -68,7 +67,7 @@ A real-time, conversational AI voice assistant built with a sophisticated RAG pi
 
 <details>
 <summary>
-<h3>🚚 DeFMA - Defense Fleet Management AI</h3>
+<h2>🚚 DeFMA - Defense Fleet Management AI</h2>
 </summary>
 <br>
 A full-stack AI system for managing defense fleets, featuring GPS tracking and predictive maintenance alerts. The system uses Gemini AI for predictive analytics and is integrated with Arduino for hardware communication.
@@ -80,7 +79,7 @@ A full-stack AI system for managing defense fleets, featuring GPS tracking and p
 
 <details>
 <summary>
-<h3>🔌 EV Trip Planner</h3>
+<h2>🔌 EV Trip Planner</h2>
 </summary>
 <br>
 A Top 5 hackathon-winning project for optimizing EV travel routes. It intelligently maps charging stations, estimates trip distances, and provides a visual analytics dashboard for users.
@@ -90,9 +89,9 @@ A Top 5 hackathon-winning project for optimizing EV travel routes. It intelligen
 <em>(Link to repository if public)</em>
 </details>
 
-📊 My GitHub Statistics
+📊 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Arjun's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Arjun's GitHub Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=dracula&hide_border=true" alt="Arjun's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=react&hide_border=true" alt="Arjun's GitHub Streak" />
 </p>
