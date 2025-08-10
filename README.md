@@ -45,6 +45,7 @@ Full-Stack AI Development: Proficient in connecting powerful AI backends with in
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -79,14 +80,14 @@ A full-stack AI system for managing defense fleets, featuring GPS tracking and p
 
 <details>
 <summary>
-<h2>🔌 EV Trip Planner</h2>
+<h2>🏆 GenAI Sports Tournament Discovery System</h2>
 </summary>
 <br>
-A Top 5 hackathon-winning project for optimizing EV travel routes. It intelligently maps charging stations, estimates trip distances, and provides a visual analytics dashboard for users.
+An autonomous AI agent system designed to discover, process, and provide structured information about sports tournaments. This system uses LLMs to dynamically generate search queries, scrape web pages for data, and organize the findings into a clean, queryable format served via a FastAPI backend.
 <br><br>
-<b>Tech Used:</b> MongoDB, MapMyIndia API
+<b>Tech Used:</b> Python, FastAPI, LLMs, Agentic Workflows, Web Scraping
 <br><br>
-<em>(Link to repository if public)</em>
+<em><a href="https://github.com/Arjunheregeek/-GenAI-Sports-Tournament-Discovery-System" target="_blank"><b>View Repository &rarr;</b></a></em>
 </details>
 
 📊 GitHub Statistics
